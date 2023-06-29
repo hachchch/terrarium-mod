@@ -11,7 +11,7 @@
                 "uniqueTo": "科学教団",
                 "replaces": "Library",
                 "science": 5,
-                "uniques": ["[+2 Science] per [1] population [in this city]","New [Military] units start with [15] Experience in this city","[+2 Production] from every specialist","[+2 Firth] from every [Great Improvement]",
+                "uniques": ["[+2 Science] per [1] population [in this city]","New [Military] units start with [15] Experience in this city","[+2 Production] from every specialist","[+2 Science] from every [Great Improvement]",
                 "requiredTech": "Writing",
         },
 ]
