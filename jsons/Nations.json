@@ -1,1 +1,13 @@
 [
+	{
+		"name": "kagakukyoudan",
+    "leaderName": "terrarium",
+    "adjective": ["terra"],
+    "StartBias": [avoid"Hill","Forest"],
+    "preferredVictoryType": "Scientific",
+
+    "uniqueName": "Wander of the Past"
+    "uniques": ["Receive free [Great Scientist] when you discover [Aguriculture]","[Great Scientist] is earned [250]% faster","+[120]% combat bonus for units fighting in [Forest]"],
+    "cities": ["1","2","3"],
+    "outerColor": [150,30,60],
+    "innerColor": [30,40,255],
