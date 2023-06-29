@@ -3,7 +3,7 @@
                 "name": "自然の防御",
                 "uniqueTo": "科学教団",
                 "cost": 10,
-                "culture": 1,
+                "firth": 1,
                 "requiredTech": "Agriculture",
         },
         {
