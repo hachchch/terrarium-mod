@@ -2,7 +2,7 @@
   {
     "name": "自然の防御",
     "replace": "Wall",
-    "cost": 10
+    "cost": 10,
     "culture" 1,
   },
   {
