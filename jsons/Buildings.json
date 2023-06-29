@@ -1,6 +1,14 @@
 [
   {
-    "name": "Nature defence"
-    "replace": "Wall"
-  }
+    "name": "Nature defence",
+    "replace": "Wall",
+    "culture" 1,
+  },
+  {
+    "name": "Remenber Library",
+    "replace": "Library",
+    "science": 5,
+    "uniques": ["[+2 Science] per [1] population [in this city]","New [Military] units start with [15] Experience in this city"],
+    "requiredTech": "Writing"
+  },
 ]
