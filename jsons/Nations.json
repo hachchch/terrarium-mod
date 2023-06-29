@@ -9,7 +9,7 @@
 		"uniqueName": "鈍い過去の記憶"
 		"uniques": ["Receive free [Great Scientist] when you discover [Writing]","[Great Scientist] is earned [250]% faster","+[20]% combat bonus for units fighting in [Forest]"],
 		"cities": ["エデン","サンライズフルー","ラストラン","コバース","エーリス","レオリス"]
-		"outerColor": [200,255,180],
+		"outerColor": [150,190,135],
 		"innerColor": [245,255,210],
 	}
 ]
