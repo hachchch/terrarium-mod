@@ -3,7 +3,7 @@
 		"name": "科学教団",
 		"leaderName": "テラリウム",
 		"adjective": ["terra"],
-		"StartBias": ["Forest","Avoid [Hill]"],
+		"startBias": ["Forest","Avoid [Hill]"],
 		"preferredVictoryType": "Scientific",
 
 		"uniqueName": "鈍い過去の記憶"
