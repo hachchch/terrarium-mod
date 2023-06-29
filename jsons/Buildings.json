@@ -1,15 +1,18 @@
 [
         {
                 "name": "自然の防御",
+                "uniqueTo": "科学教団",
                 "replace": "Wall",
                 "cost": 10,
                 "culture": 1,
+                "requiredTech": "Agriculture",
         },
         {
                 "name": "現代知識の図書館",
+                "uniqueTo": "科学教団",
                 "replace": "Library",
                 "science": 5,
                 "uniques": ["[+2 Science] per [1] population [in this city]","New [Military] units start with [15] Experience in this city"],
-                "requiredTech": "Writing"
+                "requiredTech": "Writing",
         },
 ]
