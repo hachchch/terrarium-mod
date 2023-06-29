@@ -1,11 +1,12 @@
 [
   {
-    "name": "Nature defence",
+    "name": "自然の防御",
     "replace": "Wall",
+    "cost": 10
     "culture" 1,
   },
   {
-    "name": "Remenber Library",
+    "name": "現代知識の図書館",
     "replace": "Library",
     "science": 5,
     "uniques": ["[+2 Science] per [1] population [in this city]","New [Military] units start with [15] Experience in this city"],
