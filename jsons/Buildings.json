@@ -2,8 +2,10 @@
         {
                 "name": "自然の防御",
                 "uniqueTo": "科学教団",
+                "cityStrength": 5,
+                "cityHealth": 40,
                 "cost": 10,
-                "firth": 1,
+                "culture": 1,
                 "requiredTech": "Agriculture",
         },
         {
