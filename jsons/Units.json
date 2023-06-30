@@ -1,0 +1,9 @@
+[
+        {
+                "name": "Divine light",
+                "unitType": "Missile",
+                "requiredTech": "Advanced Ballistics",
+                "repaces": "Nuclear Missile",
+                "Promotions": "Siege",
+        },
+]
