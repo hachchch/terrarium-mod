@@ -6,11 +6,11 @@
                 "strength": 250,
                 "rangedStrength": 250,
                 "range": 100,
-                "cost": 980,
+                "cost": 60,
                 "unitType": "Missile",
-                "requiredTech": "Advanced Ballistics",
+                "requiredTech": "Theology",
                 "replaces": "Nuclear Missile",
                 "Promotions": ["Besiege","Siege I","Siege II","Siege II"],
-                "uniques": ["Nuclear weapon", "Nuclear weapon of Strength [3]"],
+                "uniques": ["Nuclear weapon", "Nuclear weapon of Strength [1]"],
         }
 ]
