@@ -9,7 +9,6 @@
                 "cost": 60,
                 "unitType": "Missile",
                 "requiredTech": "Theology",
-                "replaces": "Nuclear Missile",
                 "Promotions": ["Besiege","Siege I","Siege II","Siege II"],
                 "uniques": ["Nuclear weapon", "Nuclear weapon of Strength [1]"],
         }
