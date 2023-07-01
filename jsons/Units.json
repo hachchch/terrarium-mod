@@ -2,9 +2,14 @@
         {
                 "name": "光のたま",
                 "uniqueTo": "科学教団",
+                "strength": 250,
+                "rangedStrength": 250,
+                "range": 100,
+                "cost": 980,
                 "unitType": "Missile",
                 "requiredTech": "Advanced Ballistics",
                 "replaces": "Nuclear Missile",
                 "Promotions": ["Besiege","SiegeⅠ","SiegeⅡ","SiegeⅢ"],
+                "uniques": ["Nuclear weapon"],
         },
 ]
