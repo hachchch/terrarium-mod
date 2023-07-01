@@ -1,5 +1,6 @@
 [
         {
+        */
                 "name": "光のたま",
                 "uniqueTo": "科学教団",
                 "strength": 250,
@@ -10,6 +11,9 @@
                 "requiredTech": "Advanced Ballistics",
                 "replaces": "Nuclear Missile",
                 "Promotions": ["Besiege","Siege I","Siege II","Siege II"],
-                "uniques": ["Nuclear weapon"],
+                "uniques": ["Nuclear weapon"]
+                // Plane rather than a missile - can be based in city or Carrier only. But cannot be intercepted because of a civ 5 bug that was never fixed.
+		// Single-use like missile
+		// No strength/rangedStrength tags in civ 5 xmls. Instead has NukeDamageLevel = 1 tag (Nuclear Missile has NukeDamageLevel = 2)
         },
 ]
