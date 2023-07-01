@@ -4,6 +4,6 @@
                 "unitType": "Missile",
                 "requiredTech": "Advanced Ballistics",
                 "replaces": "Nuclear Missile",
-                "Promotions": "Besiege","SiegeⅠ","SiegeⅡ","SiegeⅢ",
+                "Promotions": ["Besiege","SiegeⅠ","SiegeⅡ","SiegeⅢ"],
         },
 ]
