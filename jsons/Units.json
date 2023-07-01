@@ -12,6 +12,5 @@
                 "replaces": "Nuclear Missile",
                 "Promotions": ["Besiege","Siege I","Siege II","Siege II"],
                 "uniques": ["Nuclear weapon", "Requires [Manhattan Project]"],
-		"NukeDamageLevel": 2,
         },
 ]
