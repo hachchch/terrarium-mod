@@ -7,7 +7,7 @@
                 "rangedStrength": 250,
                 "range": 100,
                 "cost": 60,
-                "unitType": "Missile",
+                "unitType": "Atmic Bomber",
                 "requiredTech": "Theology",
                 "Promotions": ["Besiege","Siege I","Siege II","Siege II"],
                 "uniques": ["Nuclear weapon", "Nuclear weapon of Strength [1]"],
