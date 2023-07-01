@@ -1,6 +1,6 @@
 [
         {
-                "name": "Divine light",
+                "name": "光のたま",
                 "unitType": "Missile",
                 "requiredTech": "Advanced Ballistics",
                 "replaces": "Nuclear Missile",
