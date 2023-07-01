@@ -10,6 +10,6 @@
                 "unitType": "Atmic Bomber",
                 "requiredTech": "Theology",
                 "Promotions": ["Besiege","Siege I","Siege II","Siege II"],
-                "uniques": ["Nuclear weapon of Strength [1]"],
+                "uniques": ["Nuclear weapon","Nuclear weapon of Strength [1]"],
         }
 ]
