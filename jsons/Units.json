@@ -11,6 +11,6 @@
                 "requiredTech": "Advanced Ballistics",
                 "replaces": "Nuclear Missile",
                 "Promotions": ["Besiege","Siege I","Siege II","Siege II"],
-                "uniques": ["Nuclear weapon", "Requires [Manhattan Project]"],
-        },
+                "uniques": ["Nuclear weapon", "Nuclear weapon of Strength [3]"],
+        }
 ]
